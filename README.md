@@ -8,4 +8,4 @@ In the following project I would like to predict selling price of used cars. For
 * Data cleaning to convert some categorical variables into numerical variables using libraries like dplyr.
 * Using correlation matrix and other insights I got from EDA to build multiple regression models.
 * Plotting the residuals and interpretting the summary and accuracy to judge the stability of the regression model.
-* Finding the best regression model to predict the used car sales price and  also lokking at importance of different features.
+* Finding the best regression model to predict the used car sales price and  also looking at importance of different features.
